@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="images/workflow.png" width="22%" />
+  <img src="images/iv_surfaces.png" width="22%" />
+  <img src="images/param_landscape.png" width="22%" />
+  <img src="images/oosc.png" width="22%" />
+</p>
+
+
 # Modeling Market Geometry  
 ### An Engineering Approach to Implied Volatility in Options
 
