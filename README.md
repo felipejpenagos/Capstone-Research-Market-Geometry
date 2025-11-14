@@ -2,12 +2,8 @@
   <img src="images/workflow.png" height="160" />
   <img src="images/iv_surfaces.png" height="160" />
   <img src="images/oosc.png" height="160" />
-  <img src="images/param_landscape.png" height="160" />
-  <img src="images/Theory.png" height="160" />
-  <img src="images/dynamic_thresholds.png" height="160" />
 </div>
-
-
+ 
 # Modeling Market Geometry  
 ### An Engineering Approach to Implied Volatility in Options
 
@@ -67,6 +63,12 @@ In addition to PCA deltas, the model incorporates:
 - Short-horizon rolling averages of $\Delta PC_1^t$  
 
 These features capture both instantaneous and smoothed information about surface geometry.
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="images/param_landscape.png" height="160" />
+  <img src="images/Theory.png" height="160" />
+  <img src="images/dynamic_thresholds.png" height="160" />
+ </div>
 
 ### 2.4 Volatility Positioning
 
